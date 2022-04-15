@@ -2,7 +2,7 @@
 
 ### 𝖘𝖔𝖒𝖆𝖑𝖎 ᴠᴄ ᴘʟᴀᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/somalibots"><img src="https://te.legra.ph/file/8b77c66b0753cd937caae.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/somalibots"><img src="https://te.legra.ph/file/ee522dd7b99216f075f01.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
