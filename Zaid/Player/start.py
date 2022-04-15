@@ -39,7 +39,7 @@ async def start_(client: Client, message: Message):
         caption=f"""**A Telegram Music Bot Based Mongodb.
  Add Me To Ur Chat For and Help and And Support Click On Buttons  ...
 💞  These Features A.I Based 
-Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
+Powered By [ꜱᴏᴍᴀʟɪ ʙᴏᴛꜱ](t.me/somalibots) ...
 **""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -95,7 +95,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/ITZ-ZAID/Zaid-Vc-Player")
+                        " ᴏᴡɴᴇʀ", url=f"https://github.com/Smarter_than_anyone")
                 ]
             ]
         ),
