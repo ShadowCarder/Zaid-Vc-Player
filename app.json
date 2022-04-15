@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Vc Player",
+    "name": "somali Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["Zaid", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/ITZ-ZAID/Zaid-Vc-Player",
+    "repository": "https://github.com/ShadowCarder/Zaid-Vc-Player",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -32,12 +32,12 @@
         "GROUP_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
-            "value": "Superior_Support"
+            "value": "Somalibots_help"
         },
         "UPDATES_CHANNEL": {
             "description": "Ur Updates Channel",
             "required": false,
-            "value": "Superior_bots"
+            "value": "somalibots"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
