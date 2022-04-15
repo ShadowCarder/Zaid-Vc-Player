@@ -1,6 +1,6 @@
 <h2 align="centre"> 𝐌𝐮𝐬𝐢𝐜+𝐑𝐚𝐢𝐝 𝐒𝐩𝐚𝐦 𝐁𝐨𝐭🔥</h2>
 
-### ᴢᴀɪᴅ ᴠᴄ ᴘʟᴀᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
+### 𝖘𝖔𝖒𝖆𝖑𝖎 ᴠᴄ ᴘʟᴀᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
 <p align="center"><a href="https://t.me/Superior_Bots"><img src="https://te.legra.ph/file/8b77c66b0753cd937caae.jpg" width="300"></a></p>
 <p align="center">
@@ -101,22 +101,6 @@
    Install Locally Or On A VPS
 </h2>
 
-
-```console
-Zaid@Windows~ $ git clone https://github.com/ITZ-ZAID/Zaid-Vc-Player
-Zaid@Windows~ $ cd Zaid-Vc-Player
-Zaid@Windows~ $ bash setup
-Zaid@Windows~ $ cp sample.env .env
-```
-
-<h3 align="center">
-    Edit <b>.env</b> with your own values and Run Bot
-</h3>
-
-```console
-Zaid@Windows~ $ screen
-Zaid@Windows~ $ bash start
-```
 
 ### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
 - Callsmusic
